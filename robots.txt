@@ -1,0 +1,3 @@
+﻿User-agent: *
+Disallow: /*?*
+Sitemap: https://shtori.github.io/sitemap.xml
